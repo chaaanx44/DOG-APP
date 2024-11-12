@@ -1,5 +1,5 @@
 # DOG-APP
-TechFolio Mobile App.
+Dog Mobile App.
 
 # Features
 * Share Projects
@@ -16,4 +16,4 @@ TechFolio Mobile App.
 # Tech Stack
 * React Native
 * AppWrite
-* HTML, CSS and JS
+* JS
