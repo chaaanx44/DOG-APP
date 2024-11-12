@@ -16,4 +16,4 @@ Dog Mobile App.
 # Tech Stack
 * React Native
 * AppWrite
-* JS
+* HTML, CSS and JS
