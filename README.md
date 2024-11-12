@@ -1,4 +1,4 @@
-# TechFolio Hub
+# DOG-APP
 TechFolio Mobile App.
 
 # Features
@@ -17,15 +17,3 @@ TechFolio Mobile App.
 * React Native
 * AppWrite
 * HTML, CSS and JS
-
-# Home Screen
-<img src="assets/images/screenshot/onboarding.png">  
-
-# Sign Up Screen
-<img src="assets/images/screenshot/signup.png">  
-
-# Sign In Screen
-<img src="assets/images/screenshot/login.png">  
-
-# Tabs Screen
-<img src="assets/images/screenshot/tabs.png">  
