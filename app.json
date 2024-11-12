@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Attendance_App",
-    "slug": "Attendance_App",
-    "scheme":"Attendance_App",
+    "name": "DOG",
+    "slug": "DOG",
+    "scheme":"DOG",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
