@@ -17,4 +17,3 @@ Dog Mobile App.
 * React Native
 * AppWrite
 * JS
-* SASDQWEASDAsd
